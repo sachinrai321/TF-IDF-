@@ -1,7 +1,7 @@
-#TF-IDF Project
+# TF-IDF Project
 This project implements TF-IDF (Term Frequency-Inverse Document Frequency), a widely used technique in text mining and natural language processing (NLP) to evaluate the importance of a word in a collection of documents (corpus).
 
-##Project Overview
+Project Overview
 The goal of this project is to provide a clear and modular implementation of the TF-IDF algorithm, which can be used to preprocess textual data for various NLP tasks like document classification, clustering, search engine indexing, and information retrieval.
 
 TF-IDF quantifies the relevance of a term within a specific document relative to its occurrence in a larger corpus. The underlying idea is:
